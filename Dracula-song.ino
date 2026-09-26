@@ -1,9 +1,9 @@
 /*
  * =========================================================================
- *  by TechTadka360, please like,share and subscribe our youtube channel
+ *  by CircuitForge, please like,share and subscribe our youtube channel
  * =========================================================================
  *
- *  Ã°Å¸Å½Âµ  Synchronized to "Dracula" by JENNIE & Tame Impala
+ *  Ã°Å¸Å½Âµ  Synchronized to "Dracula" by Jebarson & Shanthini
  *
  *  Ã¢Å“Â¨  ANIMATIONS (all-new GOD MODE):
  *       1. Blood Drip Portal     Ã¢â‚¬â€ rings + vertical drip columns
